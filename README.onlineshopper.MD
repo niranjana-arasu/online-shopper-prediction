@@ -66,11 +66,6 @@ Four algorithms were trained and evaluated:
 - Class balancing via SMOTE was essential given the ~85/15 class split, to avoid a model biased toward predicting "no purchase."
 - Hyperparameter tuning combined with `GridSearchCV` improved both accuracy and training efficiency.
 
-## Reference
-
-Sakar, C.O., Polat, S.O., Katircioglu, M., Kastro, Y. (2019). *Real-time prediction of online shoppers' purchasing intention using multilayer perceptron and LSTM recurrent neural networks.* Neural Computing and Applications, 31(10), 6893–6908.
-
----
 
 ## About
 
